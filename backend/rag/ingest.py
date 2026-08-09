@@ -2,7 +2,7 @@ from pathlib import Path
 
 from langchain_community.document_loaders import TextLoader
 from langchain_text_splitters import RecursiveCharacterTextSplitter
-from langchain_huggingface import HuggingFaceEmbeddings
+from langchain_google_genai import GoogleGenerativeAIEmbeddings
 from langchain_community.vectorstores import FAISS
 
 
@@ -72,8 +72,9 @@ if len(chunks) == 0:
 # Create embeddings
 # ==========================================
 
-embeddings = HuggingFaceEmbeddings(
-    model_name="sentence-transformers/all-MiniLM-L6-v2"
+embeddings = GoogleGenerativeAIEmbeddings(
+    model="gemini-embedding-2",
+    output_dimensionality=768,
 )
 
 

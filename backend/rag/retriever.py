@@ -1,6 +1,6 @@
 from pathlib import Path
 
-from langchain_huggingface import HuggingFaceEmbeddings
+from langchain_google_genai import GoogleGenerativeAIEmbeddings
 from langchain_community.vectorstores import FAISS
 
 
@@ -12,8 +12,9 @@ VECTORSTORE_PATH = Path(__file__).resolve().parent / "vectorstore"
 # Load embedding model
 # ==========================================
 
-embeddings = HuggingFaceEmbeddings(
-    model_name="sentence-transformers/all-MiniLM-L6-v2"
+embeddings = GoogleGenerativeAIEmbeddings(
+    model="gemini-embedding-2",
+    output_dimensionality=768,
 )
 
 
