@@ -1,0 +1,76 @@
+PUMP CAVITATION AND TROUBLESHOOTING
+
+Cavitation is a hydraulic phenomenon in which local liquid pressure
+falls sufficiently low for vapor bubbles to form. When these bubbles
+move into regions of higher pressure, they collapse. Repeated bubble
+formation and collapse can produce noise, vibration and damage to
+pump components.
+
+COMMON SYMPTOMS
+
+Typical symptoms include:
+
+- Irregular or increased vibration
+- Crackling or rattling noise
+- Reduced pump performance
+- Reduced flow rate
+- Fluctuating pressure
+- Damage or pitting on impeller surfaces
+- Unstable pump operation
+
+COMMON CAUSES
+
+Possible causes include:
+
+- Insufficient suction pressure
+- Excessive suction lift
+- Restricted suction line
+- Clogged suction strainer
+- Excessive liquid temperature
+- Insufficient NPSH available
+- Pump operating outside its intended operating range
+- Excessive flow demand
+
+NPSH
+
+Net Positive Suction Head is an important parameter when evaluating
+pump cavitation. Adequate suction conditions must be maintained so
+that the available NPSH is sufficient for the pump operating
+condition.
+
+INSPECTION
+
+When cavitation is suspected:
+
+- Check suction pressure.
+- Check suction piping for restrictions.
+- Inspect suction strainers.
+- Check liquid temperature.
+- Check flow rate.
+- Check operating point against the pump operating range.
+- Inspect the impeller for erosion or pitting.
+- Review available NPSH against pump requirements.
+
+CORRECTIVE ACTIONS
+
+Possible actions include:
+
+- Remove suction-side restrictions.
+- Correct abnormal suction conditions.
+- Reduce excessive flow demand where appropriate.
+- Check liquid temperature.
+- Verify pump operating conditions.
+- Correct piping or system problems causing inadequate suction
+  conditions.
+- Inspect damaged rotating components.
+
+SAFETY
+
+Pump isolation and applicable pressure-relief procedures should be
+followed before opening or inspecting the pump or connected piping.
+
+IMPORTANT
+
+Cavitation should not be diagnosed from vibration alone. Suction
+pressure, flow rate, liquid temperature, pump operating point and
+system conditions should also be considered.

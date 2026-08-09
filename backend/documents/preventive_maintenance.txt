@@ -1,0 +1,58 @@
+PREVENTIVE MAINTENANCE FOR ROTATING EQUIPMENT
+
+Preventive maintenance involves planned inspection, monitoring and
+servicing intended to reduce the probability of unexpected equipment
+failure.
+
+CONDITION MONITORING
+
+Useful condition-monitoring parameters include:
+
+- Vibration
+- Temperature
+- Pressure
+- Flow rate
+- Rotational speed
+- Operating hours
+- Lubricant condition
+
+VIBRATION MONITORING
+
+Vibration trends can provide information about developing mechanical
+problems. Increasing vibration may be associated with conditions
+such as bearing deterioration, imbalance, misalignment, looseness
+or hydraulic problems.
+
+TEMPERATURE MONITORING
+
+Temperature trends can help identify abnormal friction, lubrication
+problems, bearing problems or other abnormal operating conditions.
+
+PRESSURE AND FLOW MONITORING
+
+Pressure and flow measurements help identify hydraulic problems.
+Changes may indicate restrictions, cavitation-related conditions,
+pump performance problems or system changes.
+
+TREND ANALYSIS
+
+A single measurement should generally not be interpreted in
+isolation. Comparing measurements with historical operating data
+can help identify developing abnormalities.
+
+MAINTENANCE WORKFLOW
+
+A general maintenance workflow is:
+
+1. Detect abnormal operating behavior.
+2. Review sensor trends and operating conditions.
+3. Identify possible causes.
+4. Perform appropriate inspection.
+5. Correct the underlying problem.
+6. Verify equipment condition after maintenance.
+7. Record the maintenance activity.
+
+SAFETY
+
+Maintenance procedures must follow the equipment manufacturer's
+instructions and applicable plant safety procedures.

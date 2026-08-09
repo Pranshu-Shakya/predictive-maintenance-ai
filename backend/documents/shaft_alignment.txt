@@ -1,15 +1,64 @@
-SHAFT AND COUPLING ALIGNMENT GUIDE
+SHAFT MISALIGNMENT AND PUMP ALIGNMENT
 
-Proper shaft alignment is important for reliable operation of rotating machinery.
+Shaft misalignment occurs when connected rotating shafts are not
+properly aligned. In pump systems, misalignment can increase
+vibration and impose additional loads on bearings, couplings and
+shafts.
 
-Misalignment can cause excessive vibration, bearing loading, coupling damage, shaft damage, seal failure, and increased energy consumption.
+COMMON SYMPTOMS
 
-Common symptoms of shaft misalignment include excessive vibration, abnormal bearing temperature, coupling wear, repeated bearing failure, and unusual noise.
+Possible symptoms include:
 
-Angular misalignment occurs when two shafts are at an angle to each other. Parallel or offset misalignment occurs when the shaft centerlines are parallel but displaced.
+- Increased vibration
+- Abnormal coupling temperature
+- Bearing temperature increase
+- Premature bearing failure
+- Coupling wear
+- Seal problems
+- Unusual mechanical noise
 
-When misalignment is suspected, inspect coupling condition, measure shaft alignment, inspect bearings, and verify that the machine foundation is stable.
+COMMON CAUSES
 
-Correct alignment should be verified after installation and after major maintenance activities.
+Possible causes include:
 
-Laser alignment tools or dial indicators may be used to measure shaft alignment.
+- Incorrect installation
+- Foundation movement
+- Thermal growth
+- Soft foot
+- Improper coupling installation
+- Shaft deformation
+- Incorrect machine positioning
+
+INSPECTION
+
+When misalignment is suspected:
+
+- Measure vibration.
+- Inspect the coupling.
+- Check shaft and coupling condition.
+- Check machine mounting.
+- Check for soft foot.
+- Measure shaft alignment using an appropriate alignment method.
+- Consider thermal operating conditions where relevant.
+
+CORRECTIVE ACTIONS
+
+Possible actions include:
+
+- Correct shaft alignment.
+- Correct soft foot conditions.
+- Inspect and correct coupling problems.
+- Verify machine mounting.
+- Recheck alignment after corrective work.
+- Verify vibration after the equipment is returned to operation.
+
+EFFECTS OF MISALIGNMENT
+
+Persistent misalignment can increase loads on bearings and
+couplings and may reduce component service life.
+
+SAFETY
+
+The rotating equipment should be isolated before performing
+alignment or coupling inspection. Follow applicable lockout and
+maintenance procedures.

@@ -34,7 +34,7 @@ vectorstore = FAISS.load_local(
 
 retriever = vectorstore.as_retriever(
     search_kwargs={
-        "k": 3
+        "k": 4
     }
 )
 
@@ -52,7 +52,7 @@ def retrieve_documents(query: str):
 
 if __name__ == "__main__":
 
-    query = "What causes cavitation in a pump?"
+    query = "How can shaft misalignment in a centrifugal pump be diagnosed?"
 
     documents = retrieve_documents(query)
 

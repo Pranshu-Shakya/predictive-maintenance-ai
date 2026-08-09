@@ -1,4 +1,7 @@
-.venv/
 .env
+.venv/
+.deploy-venv/
 __pycache__/
 *.pyc
+node_modules/
+dist/

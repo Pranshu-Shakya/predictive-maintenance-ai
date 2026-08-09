@@ -1,15 +1,81 @@
-CENTRIFUGAL PUMP MAINTENANCE GUIDE
+CENTRIFUGAL PUMP TROUBLESHOOTING AND MAINTENANCE
 
-Centrifugal pumps should be regularly inspected for abnormal vibration, noise, temperature, leakage, pressure variation, and reduced flow.
+A centrifugal pump transfers mechanical energy from a rotating
+impeller to a fluid. Important components include the impeller,
+shaft, casing, bearings, mechanical seal and coupling.
 
-Common causes of abnormal centrifugal pump operation include bearing wear, shaft misalignment, impeller imbalance, cavitation, inadequate lubrication, suction blockage, and loose foundations.
+IMPORTANT OPERATING PARAMETERS
 
-High vibration in a centrifugal pump should be investigated immediately. The maintenance team should inspect bearings, shaft alignment, impeller condition, coupling condition, foundation bolts, and lubrication.
+Important parameters for monitoring include:
 
-Low discharge pressure can result from insufficient pump speed, incorrect impeller size, clogged suction line, inadequate suction pressure, impeller damage, excessive system resistance, or cavitation.
+- Flow rate
+- Suction pressure
+- Discharge pressure
+- Vibration
+- Temperature
+- Rotational speed
+- Bearing condition
+- Seal condition
 
-Reduced flow rate can be caused by suction blockage, clogged filters, partially closed valves, impeller problems, incorrect pump speed, or cavitation.
+COMMON PUMP PROBLEMS
 
-Pump bearings should be monitored for abnormal temperature, noise, and vibration. Excessive bearing temperature may indicate insufficient lubrication, excessive lubrication, bearing wear, shaft misalignment, or excessive mechanical loading.
+Common problems include:
 
-Preventive maintenance should include vibration monitoring, bearing inspection, lubrication checks, coupling inspection, shaft alignment verification, and inspection of the impeller and casing.
+- Low flow
+- Low discharge pressure
+- Excessive vibration
+- Excessive noise
+- Bearing overheating
+- Mechanical seal leakage
+- Cavitation
+- Shaft misalignment
+- Impeller damage
+
+TROUBLESHOOTING
+
+When abnormal pump behavior occurs, consider:
+
+- Pump operating point
+- Suction conditions
+- Discharge conditions
+- Flow rate
+- Pressure
+- Rotational speed
+- Vibration
+- Bearing temperature
+- Mechanical seal condition
+- Alignment
+- Impeller condition
+
+VIBRATION
+
+Increased vibration can have several possible causes, including:
+
+- Bearing problems
+- Misalignment
+- Unbalance
+- Cavitation
+- Mechanical looseness
+- Hydraulic problems
+
+Vibration should therefore be evaluated together with other
+operating measurements.
+
+MAINTENANCE
+
+Typical maintenance activities include:
+
+- Checking bearings
+- Checking lubrication
+- Inspecting mechanical seals
+- Checking alignment
+- Inspecting couplings
+- Checking suction and discharge conditions
+- Inspecting impeller condition
+- Monitoring vibration and temperature
+
+SAFETY
+
+Maintenance should only be performed after appropriate equipment
+isolation, depressurization and other applicable safety procedures
+have been completed.

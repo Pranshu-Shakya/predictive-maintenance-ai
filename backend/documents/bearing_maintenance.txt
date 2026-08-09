@@ -1,15 +1,71 @@
-ROLLER AND BALL BEARING MAINTENANCE GUIDE
+BEARING FAILURE AND MAINTENANCE
 
-Bearings support rotating shafts and reduce friction between moving components.
+Bearings support rotating shafts and allow relative motion while
+carrying radial and/or axial loads. In centrifugal pumps, bearing
+condition is important because bearing deterioration can produce
+increased vibration, temperature rise, noise and eventually shaft
+or rotating assembly damage.
 
-Common bearing failure symptoms include excessive vibration, abnormal noise, increased temperature, shaft movement, and deterioration of machine performance.
+COMMON SYMPTOMS OF BEARING PROBLEMS
 
-Common causes of bearing failure include inadequate lubrication, excessive lubrication, contamination, incorrect installation, shaft misalignment, excessive load, improper bearing clearance, and fatigue.
+Common symptoms include:
 
-When excessive vibration is detected, inspect the bearing for wear, surface damage, pitting, spalling, cracks, discoloration, and abnormal clearance.
+- Increased vibration
+- Abnormally high bearing temperature
+- Unusual noise
+- Lubricant leakage or deterioration
+- Excessive bearing clearance
+- Rough or irregular rotation
 
-Bearing temperature should be monitored during operation. A sudden increase in temperature can indicate lubrication problems, excessive loading, misalignment, or bearing damage.
+COMMON CAUSES
 
-For bearing maintenance, first isolate the machine safely. Inspect the bearing and surrounding components. Check lubricant condition and quantity. Verify shaft and housing alignment. Replace damaged bearings according to the maintenance procedure.
+Possible causes include:
 
-Proper lubrication reduces friction, wear, and heat generation. Both insufficient and excessive lubrication can result in overheating and premature bearing failure.
+- Insufficient lubrication
+- Excessive or incorrect lubrication
+- Contaminated lubricant
+- Bearing wear
+- Improper bearing installation
+- Excessive loading
+- Shaft misalignment
+- Unbalanced rotating components
+- Contamination by dust, water or other particles
+
+BEARING INSPECTION
+
+During maintenance, inspect:
+
+- Bearing raceways
+- Rolling elements
+- Cage condition
+- Lubricant condition
+- Signs of overheating
+- Pitting or spalling
+- Discoloration
+- Excessive clearance
+- Evidence of contamination
+
+MAINTENANCE ACTIONS
+
+Depending on the observed condition:
+
+- Verify correct lubrication.
+- Replace contaminated or degraded lubricant according to
+  equipment requirements.
+- Inspect bearing surfaces for wear or damage.
+- Check shaft and housing condition.
+- Check alignment of connected rotating components.
+- Replace damaged bearings using the correct installation method.
+
+SAFETY
+
+Before inspecting or replacing a bearing, isolate the equipment
+according to the applicable maintenance and lockout procedures.
+Allow hot components to cool before inspection where applicable.
+
+IMPORTANT
+
+Vibration and temperature measurements should be interpreted
+together with equipment history, operating conditions and
+manufacturer specifications. A single sensor reading should not
+be treated as definitive proof of bearing failure.
