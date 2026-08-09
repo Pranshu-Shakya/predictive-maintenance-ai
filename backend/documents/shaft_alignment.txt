@@ -1,0 +1,15 @@
+SHAFT AND COUPLING ALIGNMENT GUIDE
+
+Proper shaft alignment is important for reliable operation of rotating machinery.
+
+Misalignment can cause excessive vibration, bearing loading, coupling damage, shaft damage, seal failure, and increased energy consumption.
+
+Common symptoms of shaft misalignment include excessive vibration, abnormal bearing temperature, coupling wear, repeated bearing failure, and unusual noise.
+
+Angular misalignment occurs when two shafts are at an angle to each other. Parallel or offset misalignment occurs when the shaft centerlines are parallel but displaced.
+
+When misalignment is suspected, inspect coupling condition, measure shaft alignment, inspect bearings, and verify that the machine foundation is stable.
+
+Correct alignment should be verified after installation and after major maintenance activities.
+
+Laser alignment tools or dial indicators may be used to measure shaft alignment.

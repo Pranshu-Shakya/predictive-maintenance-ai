@@ -1,0 +1,15 @@
+ROLLER AND BALL BEARING MAINTENANCE GUIDE
+
+Bearings support rotating shafts and reduce friction between moving components.
+
+Common bearing failure symptoms include excessive vibration, abnormal noise, increased temperature, shaft movement, and deterioration of machine performance.
+
+Common causes of bearing failure include inadequate lubrication, excessive lubrication, contamination, incorrect installation, shaft misalignment, excessive load, improper bearing clearance, and fatigue.
+
+When excessive vibration is detected, inspect the bearing for wear, surface damage, pitting, spalling, cracks, discoloration, and abnormal clearance.
+
+Bearing temperature should be monitored during operation. A sudden increase in temperature can indicate lubrication problems, excessive loading, misalignment, or bearing damage.
+
+For bearing maintenance, first isolate the machine safely. Inspect the bearing and surrounding components. Check lubricant condition and quantity. Verify shaft and housing alignment. Replace damaged bearings according to the maintenance procedure.
+
+Proper lubrication reduces friction, wear, and heat generation. Both insufficient and excessive lubrication can result in overheating and premature bearing failure.

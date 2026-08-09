@@ -1,0 +1,13 @@
+CENTRIFUGAL PUMP CAVITATION TROUBLESHOOTING
+
+Cavitation occurs when the local pressure of a liquid falls below its vapor pressure, resulting in the formation of vapor bubbles. These bubbles subsequently collapse when they move into a higher-pressure region.
+
+Common symptoms of pump cavitation include abnormal noise, vibration, reduced flow rate, unstable discharge pressure, and damage to the impeller surface.
+
+Cavitation can be caused by insufficient suction pressure, excessive suction lift, high liquid temperature, blocked suction lines, excessive flow rate, or insufficient Net Positive Suction Head Available (NPSHA).
+
+When cavitation is suspected, inspect the suction line for blockage, check suction pressure, verify liquid temperature, check the pump operating point, and compare NPSHA with NPSH required.
+
+Corrective actions may include reducing suction losses, cleaning the suction line, reducing pump speed or flow when appropriate, increasing suction pressure, lowering liquid temperature, or modifying the installation to provide adequate NPSH.
+
+Cavitation can cause severe erosion of the impeller and can significantly reduce pump performance if allowed to continue.

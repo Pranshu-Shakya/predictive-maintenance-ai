@@ -1,0 +1,15 @@
+MACHINE LUBRICATION GUIDE
+
+Lubrication reduces friction, wear, and heat generation between moving surfaces.
+
+Insufficient lubrication can cause increased friction, temperature rise, wear, vibration, and eventual component failure.
+
+Excessive lubrication can also cause overheating and increased resistance in rotating components.
+
+The correct lubricant type, viscosity, quantity, and lubrication interval should be selected according to the machine and bearing manufacturer's requirements.
+
+When abnormal bearing temperature or vibration occurs, inspect the lubricant condition and quantity before replacing components.
+
+Lubricants should be protected from contamination by dust, water, metal particles, and other foreign materials.
+
+Lubrication schedules should be based on operating conditions, speed, load, temperature, and manufacturer recommendations.
