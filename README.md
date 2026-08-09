@@ -19,21 +19,20 @@ troubleshooting recommendations.
 
 ## Architecture
 
-React
-↓
-FastAPI
-↓
-Random Forest
-↓
-Failure Prediction
-↓
-RAG / FAISS
-↓
-Maintenance Knowledge
-↓
-Google Gemini
-↓
-AI Troubleshooting Report
+```mermaid
+graph TD
+	React[React Dashboard] --> FastAPI[FastAPI Backend]
+	FastAPI --> RF[Random Forest Model]
+	RF --> Prediction[Failure Prediction]
+	Prediction --> RAG[RAG / FAISS Vector DB]
+	RAG --> Knowledge[Maintenance Knowledge]
+	Knowledge --> Gemini[Google Gemini]
+	Gemini --> Report[AI Troubleshooting Report]
+```
+
+If your Markdown preview doesn't render Mermaid diagrams, the architecture is a simple linear flow:
+
+React -> FastAPI -> Random Forest -> Failure Prediction -> RAG/FAISS -> Maintenance Knowledge -> Google Gemini -> AI Troubleshooting Report
 
 ## Tech Stack
 
